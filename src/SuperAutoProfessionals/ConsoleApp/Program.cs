@@ -7,6 +7,7 @@ internal class Program
 {
 	static void Main()
 	{
+        //Creating the professionals
         Console.WriteLine("Enter left team professional at 1");
         Console.Write("CodeName:");
         var templeftprof1 = Console.ReadLine();
